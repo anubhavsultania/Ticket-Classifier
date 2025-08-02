@@ -1,0 +1,2 @@
+text,output,timestamp
+My phone screen cracked and I need a replacement urgently.,"{""Predicted Issue Type"": ""Account Access"", ""Predicted Urgency Level"": ""High"", ""Extracted Entities"": {""product"": null, ""order_id"": null, ""dates"": [], ""complaint_keywords"": [""cracked"", ""replacement""]}}",2025-08-02 22:20:40.172617
